@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24499" started-at="2019-02-11T01:34:06Z" finished-at="2019-02-11T01:34:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24499" started-at="2019-02-11T01:34:06Z" finished-at="2019-02-11T01:34:30Z">
+      <class name="page.sites.AmazonMainTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:page.sites.AmazonMainTest@7880cdf3]" name="setUp" is-config="true" duration-ms="10320" started-at="2019-02-10T17:34:06Z" finished-at="2019-02-10T17:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="aMainLogin()[pri:0, instance:page.sites.AmazonMainTest@7880cdf3]" name="aMainLogin" duration-ms="22" started-at="2019-02-10T17:34:16Z" finished-at="2019-02-10T17:34:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMainLogin -->
+        <test-method status="PASS" signature="cSearchItem()[pri:0, instance:page.sites.AmazonMainTest@7880cdf3]" name="cSearchItem" duration-ms="11964" started-at="2019-02-10T17:34:16Z" finished-at="2019-02-10T17:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cSearchItem -->
+        <test-method status="PASS" signature="dAddItem()[pri:0, instance:page.sites.AmazonMainTest@7880cdf3]" name="dAddItem" duration-ms="2130" started-at="2019-02-10T17:34:28Z" finished-at="2019-02-10T17:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dAddItem -->
+      </class> <!-- page.sites.AmazonMainTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
